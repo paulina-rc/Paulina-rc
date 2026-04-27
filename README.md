@@ -1,6 +1,7 @@
 # Paulina RC
 
 Frontend-focused developer with an interest in building functional and user-centered web applications. Experience working with both development and project organization, including team coordination and workflow management.
+
 ---
 
 ## Tech Stack
