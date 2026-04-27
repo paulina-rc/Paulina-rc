@@ -1,7 +1,7 @@
 <h1 align="center">Paulina RC</h1>
 
 <p align="center">
-Frontend Developer • Web Development • Project Management
+Frontend Developer • Web Development 
 </p>
 
 ---
@@ -26,10 +26,6 @@ Experience working not only in development but also in project organization, tea
 <td>Python, Flask</td>
 </tr>
 
-<tr>
-<td><strong>Mobile</strong></td>
-<td>Flutter</td>
-</tr>
 
 <tr>
 <td><strong>Tools</strong></td>
@@ -50,14 +46,6 @@ Experience working not only in development but also in project organization, tea
 - TypeScript  
 - Improving Python skills  
 - Advanced Git workflows  
-
----
-
-## Projects
-
-### Tool Management System
-A system designed to manage and organize tools efficiently.  
-Focused on usability, structured data handling, and practical problem-solving.
 
 ---
 
