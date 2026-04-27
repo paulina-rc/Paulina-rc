@@ -9,10 +9,8 @@ Frontend-focused developer with an interest in building functional and user-cent
 - CSS  
 - JavaScript  
 - Python  
-- Flask  
-- Flutter  
+- Flask   
 - Git & GitHub  
-- Figma  
 - Scrum  
 ---
 ## Currently Learning
