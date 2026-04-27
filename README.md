@@ -1,35 +1,87 @@
-# Paulina RC
+<h1 align="center">Paulina RC</h1>
 
-Frontend-focused developer with an interest in building functional and user-centered web applications. Experience working with both development and project organization, including team coordination and workflow management.
+<p align="center">
+Frontend Developer • Web Development • Project Management
+</p>
+
+---
+
+## About Me
+
+Frontend-focused developer interested in building structured, user-centered web applications.  
+Experience working not only in development but also in project organization, team coordination, and workflow management using agile methodologies.
 
 ---
 
 ## Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- Flask   
-- Git & GitHub  
-- Scrum  
+
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>HTML, CSS, JavaScript</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>Python, Flask</td>
+</tr>
+
+<tr>
+<td><strong>Mobile</strong></td>
+<td>Flutter</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git, GitHub, Figma</td>
+</tr>
+
+<tr>
+<td><strong>Methodologies</strong></td>
+<td>Scrum</td>
+</tr>
+</table>
+
 ---
+
 ## Currently Learning
+
 - React  
 - TypeScript  
-- Advanced Python  
-- Git workflows  
+- Improving Python skills  
+- Advanced Git workflows  
+
 ---
+
 ## Projects
-- **Tool Management System**  
-  A system designed to manage and organize tools efficiently, focusing on usability and structured data handling.
+
+### Tool Management System
+A system designed to manage and organize tools efficiently.  
+Focused on usability, structured data handling, and practical problem-solving.
+
 ---
 
 ## Interests
+
 - Frontend development  
-- Team management and project organization  
-- Building structured and efficient systems  
+- UI structure and usability  
+- Team management  
+- Project planning and organization  
+
 ---
+
 ## Goals
+
 - Become a professional Web Developer  
-- Improve frontend architecture and user experience  
-- Work on real-world projects and scalable applications  
+- Build scalable and real-world applications  
+- Strengthen frontend architecture and user experience  
+- Work in collaborative development environments  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=paulina-rc&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulina-rc&layout=compact" />
+</p>
