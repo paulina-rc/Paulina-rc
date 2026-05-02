@@ -1,4 +1,4 @@
-<h1 align="center">Paulina RC</h1>
+<h1 align="center">Paulina Rojas</h1>
 
 <p align="center">
 Frontend Developer • Web Development 
