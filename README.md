@@ -58,15 +58,6 @@ Experience working not only in development but also in project organization, tea
 
 ---
 
-## Goals
-
-- Become a professional Web Developer  
-- Build scalable and real-world applications  
-- Strengthen frontend architecture and user experience  
-- Work in collaborative development environments  
-
----
-
 ## GitHub Stats
 
 <p align="center">
