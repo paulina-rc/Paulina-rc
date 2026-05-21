@@ -56,11 +56,4 @@ Experience working not only in development but also in project organization, tea
 - Team management  
 - Project planning and organization  
 
----
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paulina-rc&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulina-rc&layout=compact" />
-</p>
