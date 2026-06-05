@@ -4,12 +4,6 @@
 Frontend Developer • Web Development 
 </p>
 
----
-
-## About Me
-
-Frontend-focused developer interested in building structured, user-centered web applications.  
-Experience working not only in development but also in project organization, team coordination, and workflow management using agile methodologies.
 
 ---
 
