@@ -37,7 +37,8 @@ Frontend Developer • Web Development
 ## Currently Learning
 
 - React  
-- TypeScript  
+- TypeScript
+- Java
 - Improving Python skills  
 - Advanced Git workflows  
 
