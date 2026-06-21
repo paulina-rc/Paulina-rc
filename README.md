@@ -17,7 +17,7 @@ Frontend Developer • Web Development
 
 <tr>
 <td><strong>Backend</strong></td>
-<td>Python, Flask</td>
+<td>Python, Flask, Java, C++</td>
 </tr>
 
 
