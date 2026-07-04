@@ -36,7 +36,7 @@ Frontend Developer • Web Development
 
 ## Currently Learning
 
-- React  
+- Vibe coding  
 - TypeScript
 - Java
 - Improving Python skills  
