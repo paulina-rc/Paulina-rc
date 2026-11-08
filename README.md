@@ -34,16 +34,6 @@ Frontend Developer • Web Development
 
 ---
 
-## Currently Learning
-
-- Vibe coding  
-- TypeScript
-- Java
-- Improving Python skills  
-- Advanced Git workflows  
-
----
-
 ## Interests
 
 - Frontend development  
